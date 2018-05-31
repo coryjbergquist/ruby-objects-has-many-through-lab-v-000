@@ -27,4 +27,22 @@
   @genre[32m=[0m[32m#<Genre:0x000000032dae58[0m @name[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m[32m>[0m,
   @song_name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m,
  [32m#<Song:0x000000032d2a28[0m
-  @artist[32m=[0m
+  @artist[32m=[0m[32m#<Artist:0x000000032d2ac8[0m @name[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m[32m>[0m,
+  @genre[32m=[0m[32m#<Genre:0x000000032d2a78[0m @name[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m[32m>[0m,
+  @song_name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Song:0x000000032c0120[0m
+  @artist[32m=[0m[32m#<Artist:0x000000032c01e8[0m @name[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m[32m>[0m,
+  @genre[32m=[0m[32m#<Genre:0x000000032c0170[0m @name[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m[32m>[0m,
+  @song_name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Song:0x000000032c00d0[0m
+  @artist[32m=[0m[32m#<Artist:0x000000032c01e8[0m @name[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m[32m>[0m,
+  @genre[32m=[0m[32m#<Genre:0x000000032c0170[0m @name[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m[32m>[0m,
+  @song_name[32m=[0m[31m[1;31m"[0m[31mBig Shrimpin[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Song:0x000000032a1770[0m
+  @artist[32m=[0m[32m#<Artist:0x000000032a1888[0m @name[32m=[0m[31m[1;31m"[0m[31mJay-Z[1;31m"[0m[31m[0m[32m>[0m,
+  @genre[32m=[0m[32m#<Genre:0x000000032a17e8[0m @name[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m[32m>[0m,
+  @song_name[32m=[0m[31m[1;31m"[0m[31m99 Problems[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Song:0x000000032a1720[0m
+  @artist[32m=[0m[32m#<Artist:0x000000032a1838[0m @name[32m=[0m[31m[1;31m"[0m[31mKendrick Lamar[1;31m"[0m[31m[0m[32m>[0m,
+  @genre[32m=[0m[32m#<Genre:0x000000032a17e8[0m @name[32m=[0m[31m[1;31m"[0m[31mrap[1;31m"[0m[31m[0m[32m>[0m,
+  @song_name[32m=[0m[31m[1;31m"[0m[31mHUMBLE[1;31m"[0m[31m[0m[32m>[0m]
