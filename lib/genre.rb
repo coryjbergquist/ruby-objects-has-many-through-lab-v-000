@@ -17,6 +17,10 @@ class Genre
     end
   end
 
-
+  def artists
+    Artist.all.select do |x|
+      x.genre == self
+    end
+  end
 
 end
